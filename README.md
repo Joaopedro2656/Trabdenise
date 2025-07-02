@@ -35,13 +35,8 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
    cd nome-do-repositorio
    ```
 
-3. **Instale as dependências:**
-
-   ```
-   pip install -r requirements.txt
-   `''
    
-4. **Acesse a aplicação:**
+3. **Acesse a aplicação:**
 
    Abra o seu navegador e digite o seguinte endereço:
 
